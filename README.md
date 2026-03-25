@@ -11,3 +11,5 @@ En todo caso, espero que te sea de mucho provecho este libro como lo ha sido par
 Dios te Bendiga.
 
 12/12/2025 - Actualmente estoy editando un documento mejorado que se creó desde cero al ver la gran caantidad de fallas que tenía el documento inicial. He dividido el libro por capítulos para evitar que el editor se sobre esfuerce con el procesamiento de tantas páginas en un solo documento y para facilitar la consulta. En esta ocasión, estoy revisando y editando la traducción acompañado del SICP segunda edición(en inglés), obteniendo así una versión menos tormentosa de leer. Estoy finalizando el Capítulo 1 y espero terminarlo pronto. En este momento veo al pasado y me hubiera gustado ser más consistente con este proyecto, pero como solo tengo el presente para trabajar en el futuro, entonces solo queda evaluar, corregir y continuar. Dios los Bendiga.
+
+25/03/2026 - Los puntos 1 y 1.1 han sido completados No voy al ritmo que esperaba pero el proyecto continua.
