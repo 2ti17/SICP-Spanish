@@ -1,5 +1,3 @@
-EL PRIMER DOCUMENTO ESTÁ EN WORD, EL SEGUNDO ESTÁ EN PDF.
-
 El propósito de este trabajo es brindarles a todos los hermanos que compartimos el español como lengua materna, la posibilidad de leer este libro de una manera más cómoda, y este deseo nace porque estoy totalmente convencido de que este libro es especial, te va enseñar muchas cosas, pero el verdadero valor de este libro radica en que transformará tu mente, no por conocimiento técnico, sino por un cambio de paradigma sobre lo que es la Ciencias de la Computación (que no es una ciencia y no se trata de computadoras). Por lo tanto esto no se parece a un manual o un recetario, es más como un libro de filosofía.
 
 Soy consciente que se requiere un gran esfuerzo el entender las ideas o ejercicios tan complejos que pueden presentarse en este libro (por lo menos para mí lo son), porque este libro no es precisamente un libro para los recién iniciados en la ciencia de la computación. Por eso se recomienda acompañar la lectura con las clases grabadas del MIT y con el libro original en formato web.
